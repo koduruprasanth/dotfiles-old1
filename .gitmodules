@@ -2,3 +2,7 @@
 	path = meta/dotbot
 	url = https://github.com/anishathalye/dotbot
 	ignore = dirty
+[submodule "shells/zsh/zplug"]
+	path = shells/zsh/zplug
+	url = https://github.com/zplug/zplug
+	ignore = dirty
