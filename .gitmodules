@@ -6,3 +6,7 @@
 	path = shells/zsh/zplug
 	url = https://github.com/zplug/zplug
 	ignore = dirty
+[submodule "meta/dotbot-brewfile"]
+	path = meta/dotbot-brewfile
+	url = https://github.com/sobolevn/dotbot-brewfile.git
+	ignore = dirty

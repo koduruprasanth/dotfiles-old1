@@ -1,0 +1,5 @@
+- link :
+    "~/Brewfile": "osx/Brewfile"
+- brewfile:
+    # This accepts the same options as `brew bundle` command:
+    file: "osx/Brewfile"
