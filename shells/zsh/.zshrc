@@ -1,7 +1,7 @@
 source ~/.zsh/zplug.zsh
 source ~/.zsh/aliases.sh
 
-export EDITOR=code
+export EDITOR=vi
 
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!

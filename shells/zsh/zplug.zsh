@@ -13,9 +13,11 @@ zplug "plugins/themes", from:oh-my-zsh, ignore:oh-my-zsh.sh
 zplug "plugins/tmux", from:oh-my-zsh, ignore:oh-my-zsh.sh
 zplug "plugins/vscode", from:oh-my-zsh, ignore:oh-my-zsh.sh
 zplug "plugins/yum", from:oh-my-zsh, ignore:oh-my-zsh.sh, if:"[[ $OSTYPE != *darwin* ]]"
-zplug "plugins/zsh-interactive-cd", from:oh-my-zsh, ignore:oh-my-zsh.sh
 
-# zplug "b4b4r07/ultimate", as:theme
+# TODO: Disable on unix until fzf installation on unix is configured
+zplug "plugins/zsh-interactive-cd", from:oh-my-zsh, ignore:oh-my-zsh.sh, if:"[[ $OSTYPE == *darwin* ]]"
+
+#zplug "b4b4r07/ultimate", as:theme
 zplug "agkozak/agkozak-zsh-prompt" # https://github.com/agkozak/agkozak-zsh-prompt
 AGKOZAK_BLANK_LINES=1
 AGKOZAK_CUSTOM_SYMBOLS=( '⇣⇡' '⇣' '⇡' '+' 'x' '!' '>' '?' )
