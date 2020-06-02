@@ -1,7 +1,8 @@
 source ~/.zsh/zplug.zsh
+source ~/.zsh/aliases.sh
 
 export EDITOR=code
-alias reload='source ~/.zshrc'
+
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/Users/prasanthk/.sdkman"
