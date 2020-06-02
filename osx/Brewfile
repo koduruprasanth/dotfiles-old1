@@ -17,6 +17,7 @@ cask "iterm2"
 cask "jetbrains-toolbox"
 cask "karabiner-elements"
 cask "microsoft-edge"
+cask "remember-the-milk"
 cask "sizeup"
 cask "visual-studio-code"
 mas "Amphetamine", id: 937984704
