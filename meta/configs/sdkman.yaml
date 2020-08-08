@@ -1,0 +1,2 @@
+- shell :
+    - [curl -s "https://get.sdkman.io" | bash, Install sdkman]

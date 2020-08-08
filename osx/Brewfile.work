@@ -1,0 +1,2 @@
+tap "amazon/amazon", "ssh://git.amazon.com/pkg/HomebrewAmazon"
+brew "amazon/amazon/ninja-dev-sync"
