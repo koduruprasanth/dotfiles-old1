@@ -27,5 +27,6 @@ cask "sizeup"
 cask "slack"
 cask "sqlworkbenchj"
 cask "visual-studio-code"
+cask "typora"
 mas "Amphetamine", id: 937984704
 mas "Screen Shade", id: 450429264
