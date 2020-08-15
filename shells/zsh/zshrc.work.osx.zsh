@@ -1,4 +1,4 @@
-export DESKTOP="dev-dsk-prasantk-1a-4d69389a.us-east-1.amazon.com"
+export DESKTOP="prasantk-al2.aka.corp.amazon.com"
 
 function desktop_tunnel() {
     port=$1
