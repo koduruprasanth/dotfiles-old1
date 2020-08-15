@@ -1,0 +1,10 @@
+- shell :
+  - ["/usr/bin/curl --negotiate -fLSsu: 'https://drive.corp.amazon.com/view/BuilderToolbox/toolbox-install.sh' -o /tmp/toolbox-install.sh && /bin/bash /tmp/toolbox-install.sh", Install Toolbox Installation Script]
+  - [toolbox install ada, Install ADA]
+  - [toolbox install brazilcli, Install Brazil Cli]
+  - [toolbox install cloud-desktop, Install Cloud Desktop]
+  - [toolbox install cr, Install CR]
+  - [toolbox install gordian-knot, Install Gordian Knot]
+  - [toolbox install rde, Install RDE]
+
+
