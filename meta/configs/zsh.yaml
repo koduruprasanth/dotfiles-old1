@@ -1,4 +1,3 @@
 - link :
     "~/.zshrc": "shells/zsh/.zshrc"
     "~/.zshenv": "shells/zsh/.zshenv"
-    "~/.zsh": "shells/zsh"

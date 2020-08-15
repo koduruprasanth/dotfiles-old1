@@ -1,0 +1,4 @@
+#!/bin/sh
+
+COMMAND="$@"
+brazil-recursive-cmd "echo \"@@@ Building \$name\" && $COMMAND"

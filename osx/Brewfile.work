@@ -1,2 +1,6 @@
 tap "amazon/amazon", "ssh://git.amazon.com/pkg/HomebrewAmazon"
 brew "amazon/amazon/ninja-dev-sync"
+cask "dcv-viewer"
+cask "nosql-workbench-for-amazon-dynamodb"
+cask "sqlworkbenchj"
+

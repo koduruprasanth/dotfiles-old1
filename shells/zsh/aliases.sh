@@ -18,3 +18,5 @@ alias bball='brc --allPackages'
 alias bbb='brc --allPackages brazil-build'
 alias bbra='bbr apollo-pkg'
 alias bcbr='bb clean && bb release'
+alias dotfiles='code $DOTFILES_HOME'
+

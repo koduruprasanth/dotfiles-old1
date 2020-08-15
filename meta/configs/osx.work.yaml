@@ -1,0 +1,6 @@
+- link :
+    "~/.zshrc.work.osx": "shells/zsh/zshrc.work.osx.zsh"
+    "~/bin": "shells/bin"
+- brewfile:
+    # This accepts the same options as `brew bundle` command:
+    file: "osx/Brewfile.work"

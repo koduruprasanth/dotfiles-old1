@@ -1,7 +1,5 @@
 - shell :
     - [/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)", Install Homebrew]
-- link :
-    "~/Brewfile": "osx/Brewfile"
 - brewfile:
     # This accepts the same options as `brew bundle` command:
     file: "osx/Brewfile"
